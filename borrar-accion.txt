@@ -1,7 +1,0 @@
-Para eliminar la accion al apretar click derecho en una carpeta:
-
-Presionar Win + R, escribir regedit y darle a Enter.
-
-Navegar hasta -> HKEY_CLASSES_ROOT\Directory\shell\.
-
-Borrar la carpeta llamada ExtraerContenido.
